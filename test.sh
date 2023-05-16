@@ -4,7 +4,7 @@ echo "hello"
 
 #echo $BASH
 
-name=akirah
+name=hari
 
 echo "hello ${name} , Please enter your age"
 
@@ -12,13 +12,13 @@ read age
 
 echo "My age is ${age}"
 
-echo "harika: hi"
+echo "hari: hi"
 
 sleep 2
 
-echo "vivek: hello $1 harika"
+echo "krish: hello $1 hari"
 
 sleep 2
 
-echo "harika: nice to meet you"
+echo "hari: nice to meet you"
 
