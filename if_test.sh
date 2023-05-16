@@ -4,11 +4,11 @@ if [ "$1" = "like" ]
 
 then	
 
- echo "As you $1 me, we are going abroad"
+ echo "As you $1 this , please share"
 
 else
  
- echo " only you are going"
+ echo " Please subscribe"
 
 fi 
 
